@@ -1,0 +1,10 @@
+{
+  "name": "Algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms I wrote attempting to solve problems on different websites",
+  "main": "none",
+  "repository": "git@github.com:kanatBektursyn/Algorithms.git",
+  "author": "Kanat Bektursyn",
+  "license": "MIT",
+  "private": false
+}
